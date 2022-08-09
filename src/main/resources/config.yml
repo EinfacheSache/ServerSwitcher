@@ -1,0 +1,6 @@
+LobbyServer: 'Lobby'
+Prefix: "&8[&6ServerSwitcher&8]"
+SwitchPermission: "serverswitcher.*"
+Servers:
+  Skywars: skywars
+  test: test

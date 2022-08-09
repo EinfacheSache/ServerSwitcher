@@ -1,0 +1,5 @@
+name: ServerSwitcher
+version: "1.0"
+main: de.cubeattack.serverswitcher.ServerSwitcher
+description: ServerSwitcher by CubeAttack message me over Discord 'EinfacheSache | Tom#1000'
+author: CubeAttack aka EinfacheSache | Tom
